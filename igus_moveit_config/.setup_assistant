@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: igus_description
+    relative_path: urdf/igus.urdf
+  SRDF:
+    relative_path: config/igus.srdf
+  CONFIG:
+    author_name: parth
+    author_email: parth@gmail.com
+    generated_timestamp: 1520951210
